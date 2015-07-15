@@ -1,4 +1,3 @@
 dmml
 2015
-create b
-how to delete
+how to delete tele branch
